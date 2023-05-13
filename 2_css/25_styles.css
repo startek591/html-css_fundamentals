@@ -1,0 +1,7 @@
+p.one {
+  overflow: hidden;
+}
+
+p.two {
+  overflow: scroll;
+}
